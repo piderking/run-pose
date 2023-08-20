@@ -1,3 +1,4 @@
 # This File is forever command, "pip install library", if you ever have to add something, do so here
 
 pdoc # Documentation (https://pdoc.dev/docs/pdoc.html)
+mediapipe # Pose Tracking AI Solution
